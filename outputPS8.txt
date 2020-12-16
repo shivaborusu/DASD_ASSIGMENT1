@@ -1,0 +1,12 @@
+Successfully inserted 5 applications into the system.
+Updated details of ccc. Application Status has been changed.
+---------- Applicants for Computer Science ----------
+aaa / 9977112388 / India / Computer Science/ Applied 
+ccc / 9244231355 / India / Computer Science / Rejected 
+eee / 9982154788 / India / Computer Science / Approved
+------------------------------------- 
+---------- Application Status ---------- 
+Applied: 3
+Rejected: 1
+Approved: 1 
+-------------------------------------
